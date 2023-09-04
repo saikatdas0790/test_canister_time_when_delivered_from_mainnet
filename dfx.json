@@ -4,7 +4,7 @@
     "backend": {
       "type": "rust",
       "package": "backend",
-      "candid": "src/backend/backend.did"
+      "candid": "src/backend/can.did"
     }
   },
   "defaults": {
