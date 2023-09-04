@@ -1,0 +1,1 @@
+# Rust Canister Template Repository
