@@ -4,5 +4,5 @@ resolver = "2"
 members = ["src/backend"]
 
 [workspace.dependencies]
-candid = "0.9.3"
+candid = "0.9.11"
 ic-cdk = "0.10.0"
